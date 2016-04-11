@@ -13,6 +13,7 @@ public class Clase_Gerardo_Rodriguez {
     
     public void imprimeBuenasNoches() {
         System.out.println("Buenas Noches");
+        System.out.println("Buenas Noches");
     }
 
     /**
