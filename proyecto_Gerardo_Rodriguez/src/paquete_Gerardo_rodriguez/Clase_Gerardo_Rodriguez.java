@@ -11,6 +11,9 @@ package paquete_Gerardo_rodriguez;
  */
 public class Clase_Gerardo_Rodriguez {
     
+    public void imprimeBuenasNoches() {
+        System.out.println("Buenas Noches");
+    }
     public void imprimeBuenosDias() {
         System.out.println("Buenos dias");
     }
