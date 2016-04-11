@@ -10,6 +10,10 @@ package paquete_Gerardo_rodriguez;
  * @author desconectado
  */
 public class Clase_Gerardo_Rodriguez {
+    
+    public void imprimeBuenosDias() {
+        System.out.println("Buenos dias.");
+    }
 
     /**
      * @param args the command line arguments
